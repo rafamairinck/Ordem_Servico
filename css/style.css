@@ -134,12 +134,6 @@ textarea {
     border-radius: 5px;
 }
 
-.no-gutters {
-    /* margin-right: -10px; */
-    /* margin-left: -10px;     */
-    /* padding-right: 9px; */
-    /* padding-left: 9px; */
-}
 .no-gutters-metalsoft {
     margin-right: 0;
     margin-left: 0;    
